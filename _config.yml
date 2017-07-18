@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
 title: Welcome to Sushmita Chaudhari's page!
 permalink: /blog/:year/:month/:day/:title
-gems: - jekyll-sitemap
+gems:
+  - jekyll-sitemap
