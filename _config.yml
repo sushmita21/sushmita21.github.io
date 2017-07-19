@@ -6,8 +6,8 @@ brand: Sushmita Chaudhari
 headline: Web Developer, Amateur Photographer
 description: > # this means to ignore newlines until "baseurl:"
   New Site
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+baseurl: "https://sushmita21.github.io/blog" # the subpath of your site, e.g. /blog
+url: "https://sushmita21.github.io" # the base hostname & protocol for your site
 copyright: 2017 Sushmita Chaudhari. All Rights Reserved.
 
 # Build settings
@@ -15,7 +15,7 @@ markdown: kramdown
 
 # Account ids
 snapwidget: 247552
-
+instagram: sushmitacha
 # Contacts
 email: chaudhari.sushmita@gmail.com
 phone: +1-617-309-6035
